@@ -1,0 +1,120 @@
+#title{
+    background-color:lightsalmon;
+     
+}
+.continer-fluid{
+    padding: 3% 10%;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 3rem;
+    line-height: 2;
+}
+ h2{
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+     padding: 5%  5%;
+
+ }
+ h3{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+p{
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/*--navbar---*/
+
+.navbar{
+    padding:0 0 4.5rem;
+}
+
+.navbar-brand{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4rem;
+    font-weight: bold;
+    
+}
+.nav-item{
+    padding: 0 17px;
+}
+.nav-link{
+    font-size: 1rem;
+    font-family:'Anton-light', sans-serif;
+}
+/*--button--*/
+
+.downlod-button{
+    margin: 5% 3% 5% 0;
+}    
+.profile{
+    width: 100%;
+}
+
+
+/*--fetur--*/
+#feture{
+    padding: 5% 15%;
+}
+.fetur-box{
+    text-align: center;
+    padding: 10%;
+}
+.fa-5x{
+    color:rgb(24, 156, 101);
+}
+
+/*testmonial*/
+
+#testimoials{
+    
+    text-align: center;
+    background-color:lightcoral ;
+    
+}
+.carousei-item{
+    padding:3% 15%;;
+}
+.testimonial-img{
+    width: 30%;
+   border-radius: 100%;
+}
+.testimonial-img2{
+    width: 30%;
+}
+/***resister**/
+
+#resister{
+  padding-left: 30%;
+  padding-right: 30%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+/**---cta---*/
+#cta{
+    background-color:lightcoral ;
+    color: #ffffff;
+    padding: 7% 15%;
+    text-align: center;
+}
+.cta-heading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+#contact{
+    padding: 7% 15%;
+    text-align: center;
+}
+.social-icon{
+    margin: 20px 25px;
+}
+
+
+
+
+
+
+
+
+
+
